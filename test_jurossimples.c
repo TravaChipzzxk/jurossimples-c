@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "function_jurossimples.c"
 
 int calculo_de_juros(int capital, int taxa, int tempo);
 
